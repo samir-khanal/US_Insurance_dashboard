@@ -3,10 +3,6 @@
 
 > A comprehensive Power BI dashboard analyzing 1,338 insurance policies with focus on risk segmentation, cost drivers, and profitability optimization
 
-images---
-
----
-
 ## 🎯 Project Overview
 
 This Power BI dashboard provides strategic insights into insurance portfolio performance, identifying critical risk factors that drive claims costs and enabling data-driven underwriting decisions. The analysis reveals that **smokers cost 3.8x more** than non-smokers and specific risk combinations drive up to **498% higher claims costs**.
@@ -43,7 +39,7 @@ A two-page interactive dashboard that:
 - **Total Claims Cost by Region and Risk Category** - Stacked column chart revealing geographic cost patterns
 
 ### Page 2: Risk Factor Analysis
-![Risk Analysis Dashboard](dashboard_snapshot.png)
+![Risk Analysis Dashboard](Risk_analysis_snapshot.png)
 
 **Critical Findings:**
 - 🚬 **Smoking Impact Alert**: $32,050 vs $8,434 - **Smokers cost 3.8x Higher!**
