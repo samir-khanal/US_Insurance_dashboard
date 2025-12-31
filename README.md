@@ -384,7 +384,7 @@ This project is available under the MIT License. Feel free to use this as a lear
 
 ## 🙏 Acknowledgments
 
-- Dataset: US Health Insurance dataset(kaggle.com/datasets/teertha/ushealthinsurancedataset)
+- Dataset: [US Health Insurance dataset](https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset)
 - Inspiration: Real-world insurance analytics challenges
 - Tools: Microsoft Power BI, MySQL, Excel
 
