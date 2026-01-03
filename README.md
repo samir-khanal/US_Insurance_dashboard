@@ -126,37 +126,6 @@ The scatter plot reveals clear patterns:
 
 **Insight**: Even young smokers (age 20-30) show elevated costs compared to older non-smokers (50-60), proving smoking is the primary cost driver regardless of age.
 
----
-
-## 💼 Business Recommendations
-
-Based on the data analysis, here are actionable recommendations for management:
-
-### 1. 🎯 Immediate Actions (0-30 Days)
-
-**Repricing Strategy:**
-- ✅ Increase premiums for "Smoker + High BMI" segment by 40-50% to reflect 498% cost impact
-- ✅ Implement smoking verification protocols (cotinine testing) to prevent misclassification
-- ✅ Review Southeast region underwriting standards
-
-**Risk Mitigation:**
-- ✅ Flag the 71 Very High Risk policies for claims review
-- ✅ Implement stricter underwriting for compound risk factors
-
-### 2. 📈 Medium-Term Strategies (1-6 Months)
-
-**Product Innovation:**
-- 🔄 Launch wellness incentive programs with premium discounts for:
-  - Smoking cessation participation (reduce 10% of smokers = significant savings)
-  - Weight management programs for high BMI customers
-  - Annual health checkup compliance
-- 🔄 Create "Healthy Living" product line targeting low-risk segment (25.93% of portfolio)
-
-**Portfolio Optimization:**
-- 🔄 Set underwriting caps on high-risk combinations (limit Smoker + High BMI to 8% of new business)
-- 🔄 Expand marketing in low-risk demographics
-- 🔄 Regional strategy: investigate why Southeast has highest costs
-
 
 ## 🛠️ Technical Implementation
 
@@ -269,39 +238,6 @@ If you don't have Power BI Desktop:
 ### Option 3: View Online (Coming Soon)
 
 🔗 **Live Dashboard Link**: [Power BI Service](https://app.powerbi.com) *(Publishing in progress)*
-
----
-
-## 🎓 Skills Demonstrated
-
-This project showcases proficiency in:
-
-✅ **Business Intelligence**
-- Translating business questions into analytical frameworks
-- Identifying cost drivers and profitability levers
-- Providing actionable recommendations to stakeholders
-
-✅ **Data Analysis**
-- Statistical analysis of risk factors
-- Correlation and compound effect analysis
-- Segmentation and cohort analysis
-
-✅ **Power BI Technical Skills**
-- DAX measure creation for complex calculations
-- Star schema data modeling
-- Interactive dashboard design with drill-through
-- Conditional formatting for insights highlighting
-- Multiple visualization types for different data stories
-
-✅ **Domain Knowledge**
-- Insurance industry metrics (loss ratio, risk categories, claims)
-- Actuarial concepts (risk pooling, adverse selection)
-- Healthcare cost drivers (smoking, obesity, age)
-
-✅ **Communication**
-- Data storytelling with executive summary
-- Clear visualization of complex relationships
-- Presenting technical findings to non-technical audiences
 
 ---
 
